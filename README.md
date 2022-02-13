@@ -1,5 +1,5 @@
 Fala pessoal, bem vindos ao Github!
-Foco em Data Science, Python, SQL, Java, bancos de dados e afins, mas concatenando um pouco de tudo.
+Foco em Data Science, Python, SQL, Java, bancos de dados e afins, mas misturando um pouco de tudo.
 Dúvidas? Entre em contato comigo: leo.kmorais@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------
