@@ -1,4 +1,4 @@
-Fala pessoal, bem vindos ao Github!
+Olá a todos, bem vindos ao Github!
 Foco em Data Science, Python, SQL, Java, bancos de dados e afins, mas misturando um pouco de tudo.
 Dúvidas? Entre em contato comigo: leo.kmorais@gmail.com
 
@@ -6,7 +6,7 @@ Dúvidas? Entre em contato comigo: leo.kmorais@gmail.com
 
 Hello world! Welcome to Github!
 Focus in Data Science, Python, SQL, Java, databases and so, but mixing a little bit of everything.
-Questions? Talk to me: leo.kmorais@gmail.com
+Questions? Mail me: leo.kmorais@gmail.com
 
 <!---
 LeoKMorais/LeoKMorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
