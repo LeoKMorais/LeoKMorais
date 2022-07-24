@@ -1,16 +1,13 @@
 Olá a todos, bem vindos ao meu Github!
-Estudante de ciência de dados na Let's Code e participante do programa de formação DB1 Start, em busca de oportunidades de atuação na área de dados. Experiência em Python, SQL e Java, mas super disposto a aprender novos temas ;)  
-Entre em contato comigo: 
+Analista de dados na WMcCann, estudante de ciência de dados na Let's Code, seguindo a trilha de Data Sciente no DataCamp. Experiência em Python, SQL e Java. Códigos abertos para utilização APENAS em estudos, com os devidos créditos. Dúvidas? Entre em contato comigo ;)  
+
  - leo.kmorais@gmail.com
- - (44) 999443712
 ---------------------------------------------------------------------------------------------------------------
 
 Hello world! Welcome to my Github!
-Data science student at Let's Code Academy and DB1 Start participant, looking for an oportunity to work with data. Experienced at Python, SQL and Java, but totally open to learn anything new ;)
+Data Analyst at McCann, data science student at Let's Code Academy and following the Data Science track at DataCamp. Experienced at Python, SQL and Java. My codes are to be used for study purposes ONLY, with credits given. Any questions? Mail me ;)
 
-Contact me:
  - leo.kmorais@gmail.com
- - +5544999443712
 
 <!---
 LeoKMorais/LeoKMorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
